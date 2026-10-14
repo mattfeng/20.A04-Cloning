@@ -48,7 +48,7 @@
 ### Example: IL11 as a Type "C" part
 
 1. **Find a source of the IL11 gene**.
-    - Luckily, there is an existing plasmid on Addgene that includes the IL11 gene.
+    - Luckily, there is an existing plasmid on Addgene (https://www.addgene.org/189609/) that includes the IL11 gene.
     - If there wasn't, we'd need to look for the sequence itself, and have it synthesized.
         - NCBI Gene - IL11: https://www.ncbi.nlm.nih.gov/gene/3589
         - Consensus sequence: https://www.ncbi.nlm.nih.gov/CCDS/CcdsBrowse.cgi?REQUEST=CCDS&DATA=CCDS12923.1
