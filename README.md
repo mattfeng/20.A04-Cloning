@@ -53,6 +53,14 @@
         - NCBI Gene - IL11: https://www.ncbi.nlm.nih.gov/gene/3589
         - Consensus sequence: https://www.ncbi.nlm.nih.gov/CCDS/CcdsBrowse.cgi?REQUEST=CCDS&DATA=CCDS12923.1
 2. Design the PCR reaction(s) to amplify your sequence of interest.
+    - TODO
+
+### Compiling a list of parts
+
+- Name
+- Description/purpose
+- Part type (promoter, 5' miRNA, CDS, 3' miRNA, terminator, etc.)
+- Source/sequence
 
 ## References
 - MoClo and Golden Gate, the original papers
