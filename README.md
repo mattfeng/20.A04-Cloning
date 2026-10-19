@@ -61,6 +61,36 @@
 - Description/purpose
 - Part type (promoter, 5' miRNA, CDS, 3' miRNA, terminator, etc.)
 - Source/sequence
+- at a later point: forward primer(s), reverse primer(s)
+
+#### Example: an immunology toolkit
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Part type</th>
+        <th>Source</th>
+    </tr>
+    <tr>
+        <td>IL11</td>
+        <td>cytokine </td>
+        <td>CDS</td>
+        <td>https://www.addgene.org/189609/</td>
+    </tr>
+    <tr>
+        <td>IL11Rα</td>
+        <td>IL11 receptor, alpha subunit</td>
+        <td>CDS</td>
+        <td>https://www.addgene.org/156788/</td>
+    </tr>
+    <tr>
+        <td>IL11Rβ</td>
+        <td>IL11 receptor, beta subunit</td>
+        <td>CDS</td>
+        <td>TBD</td>
+    </tr>
+</table>
 
 ## References
 - MoClo and Golden Gate, the original papers
