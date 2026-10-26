@@ -45,6 +45,10 @@
     </tr>
 </table>
 
+### BsmBI and BsaI cut sites
+
+![](./assets/pL0-construction.png)
+
 ### Example: IL11 as a Type "C" part
 
 1. **Find a source of the IL11 gene**.
