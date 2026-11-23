@@ -16,7 +16,11 @@
 
 ## Creating a MoClo kit part
 
-### JUMP overhangs
+### JUMP basic part overhangs
+
+![](./assets/JUMP%20Basic%20Parts.png)
+
+### JUMP Level 1 overhangs
 
 <table>
     <tr>
